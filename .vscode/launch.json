@@ -11,7 +11,6 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            //"program": "${workspaceFolder}\\gulpfile.js"
             "program": "${workspaceFolder}\\start.js",
             "url": "http://localhost:3000/"
         }
